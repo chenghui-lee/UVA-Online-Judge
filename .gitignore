@@ -2,4 +2,4 @@ test.cpp
 *.exe
 *.out
 *.o
-commit.bat
+*.bat
